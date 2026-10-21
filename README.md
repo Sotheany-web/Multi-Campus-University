@@ -1,7 +1,7 @@
 # Multi-Campus-University
 The network connects a Main Campus (Admin and Library) with a Remote Dormitory.  Different user groups (Admin, Student, Faculty, Guest) must be separated.  The design aims to provide stable connections, high availability, and secure communication.
 
-# Packet Tracer Build Guide — Campus ↔ Dorm (VLSM, VLANs, LACP EtherChannel, Multi‑Area OSPF, WPA2)
+## Packet Tracer Build Guide — Campus ↔ Dorm (VLSM, VLANs, LACP EtherChannel, Multi‑Area OSPF, WPA2)
 
 This is a complete, **copy/paste** configuration guide with **all design choices made** (addressing, VLAN IDs, ports, routing areas, security hardening, verification).
 
